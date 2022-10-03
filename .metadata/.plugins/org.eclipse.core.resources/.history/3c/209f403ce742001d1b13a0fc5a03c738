@@ -1,0 +1,17 @@
+package jacksnider.vo;
+
+import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
+
+
+
+
+public class JackSnider {
+
+	private String name;
+	private int age;
+	private String job;
+	
+	
+}

@@ -1,0 +1,5 @@
+
+10월 03, 2022 17:00:43.470 NEW SESSION
+10월 03, 2022 17:00:43.470 [4624:18848:1003/170043.467:ERROR:device_event_log_impl.cc(214)] [17:00:43.468] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 03, 2022 17:01:25.693 [11936:8592:1003/170125.693:ERROR:device_event_log_impl.cc(214)] [17:01:25.693] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 03, 2022 19:02:16.465 [11936:8592:1003/190216.465:ERROR:device_event_log_impl.cc(214)] [19:02:16.464] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
